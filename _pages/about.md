@@ -20,10 +20,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social:  # includes social icons at the bottom of the page
 ---
-- Associate Editor, [Atmospheric Environment](https://www.sciencedirect.com/journal/atmospheric-environment)
-- Associate Editor, [Frontiers of Envionmental Science and Engineering](https://link.springer.com/journal/11783)
-- Associate Editor, [Aerosol and Air Quality Research](https://aaqr.org/)
-
 Education 
 - Ph.D. Environmental Engineering, 2004. University of California, Davis
 - B.S. Environmental Engineering, 2000. Tsinghua University
