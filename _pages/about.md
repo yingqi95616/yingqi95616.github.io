@@ -27,6 +27,7 @@ Associate Editor, [Frontiers of Envionmental Science and Engineering](https://li
 Associate Editor, [Aerosol and Air Quality Research](https://aaqr.org/)
 
 *Ph.D. Environmental Engineering, 2004. University of California, Davis
+
 *B.S. Environmental Engineering, 2000. Tsinghua University
 
 <span style="color:red">I will be moving to the Hong Kong University of Science and Technology from January 2025.</span>
