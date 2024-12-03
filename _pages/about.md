@@ -26,6 +26,9 @@ Associate Editor, [Frontiers of Envionmental Science and Engineering](https://li
 
 Associate Editor, [Aerosol and Air Quality Research](https://aaqr.org/)
 
+*Ph.D. Environmental Engineering, 2004. University of California, Davis
+*B.S. Environmental Engineering, 2000. Tsinghua University
+
 <span style="color:red">I will be moving to the Hong Kong University of Science and Technology from January 2025.</span>
 
 According to the World Health Organization, 90% of the world’s population is breathing contami-nated air, and 4.2 million people worldwide die prematurely every year due to ambient air pollution. Air pollution also causes reduced crop yields by 5-12% globally, with an estimated economic loss of up to 20 billion dollars per year. My research focuses on developing and applying science-based data-driven modeling tools to elucidate the impacts of emissions from human activities on air quality so that local and state governments can make informed regulatory decisions to reduce air pollution and protect human health. My current research focuses on the following three areas:
