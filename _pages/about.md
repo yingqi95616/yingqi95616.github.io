@@ -20,7 +20,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social:  # includes social icons at the bottom of the page
 ---
-Education 
+
 - Ph.D. Environmental Engineering, 2004. University of California, Davis
 - B.S. Environmental Engineering, 2000. Tsinghua University
 
