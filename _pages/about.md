@@ -30,4 +30,5 @@ According to the World Health Organization, 90% of the world’s population is b
 1. mechanistic modeling of air pollution in urban and regional scales with a particular focus on source apportionment
 2. multiscale modeling of criteria and toxic air pollutants for exposure assessment in epidemiology studies
 3. modeling secondary organic aerosol and their chemical constituents in chemical transport models
+   
 In my spare time (don’t have much recently), I play table tennis and chess. I also like to play with single chip computers. Recently, I have been working on an Apple II+ emulator which runs on the Arduino DUE. You can see a demonstration of the emulator on [YouTube](https://www.youtube.com/watch?v=vozrPYWGqR4&t=22s) here. I also collect vintage computers. Some of my computer collections can be found here (coming soon). 
