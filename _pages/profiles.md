@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /group members/
+title: group members
 description: Hidden dragon, crouching tiger (卧虎藏龙)
 nav: true
 nav_order: 7
