@@ -14,13 +14,38 @@ profiles:
     content: about_alan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ph.D. Student</p>
+      <p>Alan Gonzalez</p>
+      <p>Current Ph.D. Student</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: jie_pic.jpg
+    content: about_jie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Dr. Jie Zhang</p>
+      <p>Scientific Engineering Associate, LBNL</p> 
+      <p>Former Ph.D. Student</p>
+  - align: right
+    image: jingyi_pic.jpg
+    content: about_jingyi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Jingyi Li</p>
+      <p>Associate Professor, Nanjing University of Information Science and Technology</p>
+      <p>Former Ph.D. Student</p>
+  - align: left 
+    image: sri_pic.jpg
+    content: about_sri.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Sri Harsha Kota</p>
+      <p>Associate Professor, Indian Institute of Technology Delhi</p>
+      <p>Former Ph.D. Student</p>
+  - align: right 
+    image: hongliang_pic.jpg
+    content: about_hongliang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Hongliang Zhang</p>
+      <p>Professor, Fudan University</p>
+      <p>Former Ph.D. Student</p>
 ---
