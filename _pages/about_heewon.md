@@ -1,0 +1,1 @@
+Heewon Yim has B.S. and M.S. degrees from Chung-Ang University and Yonsei University in South Korea. Currently she is studying the impacts of oxygenated organic compounds and volatile chemical products on air quality in Texas. She loves working out and watching movies in her spare time.   
