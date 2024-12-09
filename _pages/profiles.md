@@ -16,13 +16,43 @@ profiles:
     more_info: >
       <p>Alan Gonzalez</p>
       <p>Current Ph.D. Student</p>
+  - align: left 
+    image: weihao_pic.jpg
+    content: about_weihao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Weihao Xiao</p>
+      <p>Current Ph.D. Student</p>
+  - align: right 
+    image: heewon_pic.jpg
+    content: about_heewon.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Heewon Yim</p>
+      <p>Current Ph.D. Student</p>
   - align: left
+    image: minsu_pic.jpg
+    content: about_minsu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Minsu Choi</p>
+      <p>Postdoctoral researcher at NOAA Global Systems Laboratory</p>
+      <p>Former Ph.D. Student</p>
+  - align: right 
     image: jie_pic.jpg
     content: about_jie.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Dr. Jie Zhang</p>
       <p>Scientific Engineering Associate, LBNL</p> 
+      <p>Former Ph.D. Student</p>
+  - align: left
+    image: peng_pic.jpg
+    content: about_peng.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Peng Wang</p>
+      <p>Associate Research Scientist, Fudan University</p> 
       <p>Former Ph.D. Student</p>
   - align: right
     image: jingyi_pic.jpg
