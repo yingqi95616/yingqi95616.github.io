@@ -70,4 +70,12 @@ profiles:
       <p>Dr. Hongliang Zhang</p>
       <p>Professor, Fudan University</p>
       <p>Former Ph.D. Student</p>
+  - align: left 
+    image: mingjie_pic.jpg
+    content: about_mingjie.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Mingjie Kang</p>
+      <p>Associate Professor, Nanjing University of Information Science and Technology</p>
+      <p>Former Visiting Scholar</p>
 ---
