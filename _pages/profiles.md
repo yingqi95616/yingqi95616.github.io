@@ -30,14 +30,14 @@ profiles:
     more_info: >
       <p>Heewon Yim</p>
       <p>Current Ph.D. Student</p>
-  - align: left
-    image: minsu_pic.jpg
-    content: about_minsu.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Dr. Minsu Choi</p>
-      <p>Postdoctoral researcher at NOAA Global Systems Laboratory</p>
-      <p>Former Ph.D. Student</p>
+[//]: #  - align: left
+[//]: #    image: minsu_pic.jpg
+[//]: #    content: about_minsu.md
+[//]: #    image_circular: false # crops the image to make it circular
+[//]: #    more_info: >
+[//]: #      <p>Dr. Minsu Choi</p>
+[//]: #      <p>Postdoctoral researcher at NOAA Global Systems Laboratory</p>
+[//]: #      <p>Former Ph.D. Student</p>
   - align: right 
     image: jie_pic.jpg
     content: about_jie.md
