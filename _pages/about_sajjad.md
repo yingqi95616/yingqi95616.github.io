@@ -1,0 +1,1 @@
+Ali Sajjad studied in the group from 2009-2010. His master's thesis is "Using a regional chemical transport model for the analysis of gaseous and particulate air pollutants in the Mexico City Metropolitan Area". 

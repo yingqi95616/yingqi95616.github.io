@@ -30,6 +30,14 @@ profiles:
     more_info: >
       <p>Heewon Yim</p>
       <p>Current Ph.D. Student</p>
+  - align: left 
+    image: minsu_pic.jpg 
+    content: about_minsu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Minsu Choi</p>
+      <p>Postdoctoral researcher at NOAA Global Systems Laboratory</p> 
+      <p>Former student: MS 2020, Ph.D. 2024</p>
   - align: right 
     image: jie_pic.jpg
     content: about_jie.md
@@ -37,7 +45,7 @@ profiles:
     more_info: >
       <p>Dr. Jie Zhang</p>
       <p>Scientific Engineering Associate, LBNL</p> 
-      <p>Former Ph.D. Student</p>
+      <p>Former student: MS 2015, Ph.D. 2021</p>
   - align: left
     image: peng_pic.jpg
     content: about_peng.md
@@ -45,7 +53,7 @@ profiles:
     more_info: >
       <p>Dr. Peng Wang</p>
       <p>Associate Research Scientist, Fudan University</p> 
-      <p>Former Ph.D. Student</p>
+      <p>Former student: Ph.D. 2018</p>
   - align: right
     image: jingyi_pic.jpg
     content: about_jingyi.md
@@ -53,7 +61,7 @@ profiles:
     more_info: >
       <p>Dr. Jingyi Li</p>
       <p>Associate Professor, Nanjing University of Information Science and Technology</p>
-      <p>Former Ph.D. Student</p>
+      <p>Former student: MS 2010; Ph.D. 2014</p>
   - align: left 
     image: sri_pic.jpg
     content: about_sri.md
@@ -61,7 +69,7 @@ profiles:
     more_info: >
       <p>Dr. Sri Harsha Kota</p>
       <p>Associate Professor, Indian Institute of Technology Delhi</p>
-      <p>Former Ph.D. Student</p>
+      <p>Former student: MS. 2009; Ph.D. 2014</p>
   - align: right 
     image: hongliang_pic.jpg
     content: about_hongliang.md
@@ -69,7 +77,7 @@ profiles:
     more_info: >
       <p>Dr. Hongliang Zhang</p>
       <p>Professor, Fudan University</p>
-      <p>Former Ph.D. Student</p>
+      <p>Former student: Ph.D. 2012</p>
   - align: left 
     image: mingjie_pic.jpg
     content: about_mingjie.md
@@ -78,4 +86,54 @@ profiles:
       <p>Dr. Mingjie Kang</p>
       <p>Associate Professor, Nanjing University of Information Science and Technology</p>
       <p>Former Visiting Scholar</p>
+  - align: right
+    image: coco_pic.jpg
+    content: about_coco.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Kezheng Liao</p>
+      <p>Research Assistant Professor, Hong Kong University of Science and Technology</p>
+      <p>Former Visiting Scholar</p>
+  - align: left 
+    image: male.jpg
+    content: about_sajjad.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Sajjad Ali</p>
+      <p>Former student: MS 2010</p>
+  - align: right 
+    image: female.jpg
+    content: about_yuan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Yuan Chen</p>
+      <p>Former student: MS 2017</p>
+  - align: left 
+    image: female.jpg
+    content: about_anu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Anupama Krishnan</p>
+      <p>Former student: MS 2010</p>
+  - align: right 
+    image: male.jpg
+    content: about_li.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Li Wu</p>
+      <p>Former student: MS 2015</p>
+  - align: left
+    image: male.jpg
+    content: about_michael.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Zhenglu (Michael) Wang</p>
+      <p>Former student: MS 2018</p>
+  - align: right 
+    image: male.jpg
+    content: about_michael.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Zhenglu (Michael) Wang</p>
+      <p>Former student: MS 2018</p>
 ---
