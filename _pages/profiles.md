@@ -95,6 +95,21 @@ profiles:
       <p>Research Assistant Professor, Hong Kong University of Science and Technology</p>
       <p>Former Visiting Scholar</p>
   - align: left 
+    image: xue_pic.jpg
+    content: about_xue.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Xue Qiao</p>
+      <p>Associate Professor, Sichuan University</p>
+      <p>Former Visiting Scholar</p>
+  - align: right
+    image: male_pic.jpg
+    content: about_fengbin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Fengbin Sun</p>
+      <p>Former Visiting Scholar</p>
+  - align: left 
     image: male.jpg
     content: about_sajjad.md
     image_circular: false # crops the image to make it circular
