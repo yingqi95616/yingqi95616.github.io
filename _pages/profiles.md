@@ -103,7 +103,7 @@ profiles:
       <p>Associate Professor, Sichuan University</p>
       <p>Former Visiting Scholar</p>
   - align: right
-    image: male_pic.jpg
+    image: male.jpg
     content: about_fengbin.md
     image_circular: false # crops the image to make it circular
     more_info: >
