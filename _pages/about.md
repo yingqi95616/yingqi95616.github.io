@@ -2,19 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, Texas A&M University
+subtitle: Professor, Hong Kong University of Science and Technology 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>411B Dwight Look Engineering Building (DLEB)</p>
-    <p>Zachry Department of Civil and Environmental Engineering</p> 
-    <p>Texas A&M University</p>
-    <p>College Station, Texas 77845-3136</p>
-    <p>Email: qying@civil.tamu.edu</p>
-    <p>Phone: 979-845-9709</p>
+    <p>Division of Environment and Sustainability</p> 
+    <p>Hong Kong University of Science and Technology</p>
+    <p>Email: qying@ust.hk</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,8 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 - Ph.D. Environmental Engineering, 2004. University of California, Davis
 - B.S. Environmental Engineering, 2000. Tsinghua University
-
-<span style="color:red">I will be moving to the Hong Kong University of Science and Technology from January 2025.</span>
 
 According to the World Health Organization, 90% of the world’s population is breathing contami-nated air, and 4.2 million people worldwide die prematurely every year due to ambient air pollution. Air pollution also causes reduced crop yields by 5-12% globally, with an estimated economic loss of up to 20 billion dollars per year. My research focuses on developing and applying science-based data-driven modeling tools to elucidate the impacts of emissions from human activities on air quality so that local and state governments can make informed regulatory decisions to reduce air pollution and protect human health. My current research focuses on the following three areas:
 1. mechanistic modeling of air pollution in urban and regional scales with a particular focus on source apportionment
